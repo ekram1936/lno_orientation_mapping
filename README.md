@@ -19,9 +19,6 @@ and decoded via `atan2` after prediction. A fourth experiment explores **quatern
 representations** (4 outputs) as an alternative encoding. Four experiments progressively
 address the challenges of symmetry, data scale, and output space design.
 
-See [PhD_Coding_Task_Report.pdf](report/PhD_Coding_Task_Report.pdf) for full methodology,
-analysis and results.
-
 ---
 
 ## Key Results
